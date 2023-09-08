@@ -1,0 +1,8 @@
+.profile{
+    height: 100px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border-radius: 50%;
+    background-color: green;
+}
